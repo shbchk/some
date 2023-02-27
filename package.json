@@ -1,0 +1,15 @@
+{
+  "name": "praktikum-chat",
+  "version": "1.0.0",
+  "description": "Yandex praktikum study project",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Kuchev <shbchk@yandex.ru>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
