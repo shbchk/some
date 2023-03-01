@@ -2,7 +2,6 @@
   "name": "praktikum-chat",
   "version": "1.0.0",
   "description": "Yandex praktikum study project",
-  "main": "index.js",
   "private": true,
   "scripts": {
     "dev": "parcel static/index.hbs",
