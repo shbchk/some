@@ -5,11 +5,13 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parcel static/index.hbs",
+    "build": "parcel build static/index.hbs"
   },
   "author": "Dmitry Kuchev <shbchk@yandex.ru>",
   "license": "UNLICENSED",
   "devDependencies": {
+    "@anikin/parcel-transformer-handlebars": "^1.0.9",
     "parcel": "^2.8.3"
   }
 }
